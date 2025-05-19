@@ -19,7 +19,7 @@ Para escribir los inputs hay que tener en cuenta que se debe respetar una serie 
 
 Es obligatorio que cada línea termine con punto y coma ";".
 
-Los campos que aceptan texto pueden tener letras, números, espacios, guiones, puntos y algunos caracteres especiales como la ñ o letras con tilde.
+Los campos que aceptan texto pueden tener letras, números, espacios, guiones, puntos. No acepta acentos ni la ñ
 
 Los numeros deben de ser positivos enteros y no deben de usar puntos o decimales
 
