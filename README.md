@@ -1,16 +1,28 @@
 # Analizador de Metadata - Legajo: 51894 Agustin Araya De Cara #  
 El proyecto dado de la contruccion del analizador con ANTLR y JavaScript, donde dada una gramatica EBNF, se pedia que realizara el analisis lexico y sintactico, generar el arbol de analisis sintactico, tabla de lexemas-tokens y la interpretacion del codigo fuente al lenguaje JavaScript mediante Node.js
+
 # Estructura
-**Metadata.g4** Contiene la gramatica convertida a ANTLR
-**generated** Se guardan los archivos generados automaticamente por ANTLR
-**index.js** Contiene las instrucciones esenciales para la correcta ejecucion del programa
-**CustomMetadataVisitor** Permite que se realice el correcto recorrido del arbol 
-**input.txt** Archivo que contiene el texto de entrada a analizar
-#Programas Requeridos
+**Metadata.g4**: Contiene la gramatica convertida a ANTLR
+
+**generated**: Se guardan los archivos generados automaticamente por ANTLR
+
+**index.js**: Contiene las instrucciones esenciales para la correcta ejecucion del programa
+
+**CustomMetadataVisitor**: Permite que se realice el correcto recorrido del arbol 
+
+
+**input.txt**: Archivo que contiene el texto de entrada a analizar
+
+# Programas Requeridos
+
 **Node.js**
+
 **ANTLR 4**
+
 # Guia para ejecutar el proyecto
+
 ## 1. Clonar el repositorio ##
+
 Para ello deberemos abrir VisualStudioCode y poner en el terminal la instruccion "**git clone https://github.com/AgusAraya/51894**"
 
 ## 2. Escribir un input ##
