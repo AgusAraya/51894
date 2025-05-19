@@ -9,7 +9,7 @@ El proyecto dado de la contruccion del analizador con ANTLR y JavaScript, donde 
 #Programas Requeridos#
 **Node.js**
 **ANTLR 4**
-## Guia para ejecutar el proyecto##
+# Guia para ejecutar el proyecto#
 1. ## Clonar el repositorio ##
 Para ello deberemos abrir VisualStudioCode y poner en el terminal la instruccion "**git clone https://github.com/AgusAraya/51894**"
 2. ##Escribir un input##
