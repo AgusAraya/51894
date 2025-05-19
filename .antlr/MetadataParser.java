@@ -1,4 +1,4 @@
-// Generated from c:/Users/agust/OneDrive/Escritorio/Escritorio/Descargar RAM/Santo Grial del Analizador de Sintaxis 2 Version prueba/Metadata.g4 by ANTLR 4.13.1
+// Generated from c:/Users/agust/OneDrive/Escritorio/Escritorio/Variados/Santo Grial del Analizador de Sintaxis 2 Version prueba/Metadata.g4 by ANTLR 4.13.1
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
