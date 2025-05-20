@@ -27,11 +27,11 @@ Para esta opcion abrimos Visual Studio Code y elegimos la opcion "Clone git repo
 
 El programa nos pedira una direccion, en la cual la direccion a colocar en VisualStudioCode es:
 
-**https://github.com/AgusAraya/51894**
+**https://github.com/AgusAraya/51894.git**
 
 En CMD o PowerShell colocar las siguientes instrucciones
 
-**git clone https://github.com/AgusAraya/51894**
+**git clone https://github.com/AgusAraya/51894.git**
 
 **cd 51894**
 
@@ -50,6 +50,8 @@ Los numeros deben de ser positivos enteros y no deben de usar puntos o decimales
 La hora sigue el sistema de 24 horas, desde las 00:00 hasta las 23:59.
 
 Las etiquetas deben de escribirse entre "[ ]" y sus elementos deben de estar separados por comas y sin espacios entre ellos.
+
+En el Analizador hay una carpeta llamada Inputs que contiene 4 archivos txt **Entrada-Valida1.txt** **Entrada-Valida2.txt** **Entrada-No-Valida1.txt** y **Entrada-No-Valida2.txt** . Cuyo contenido tiene 4 inputs distintos para remplazarlos por el input dado por el trabajo practico. Donde 2 son validos y los otros 2 tienen errores.
 
 ## 3. Generacion del Arbol ##
    
