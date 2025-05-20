@@ -1,17 +1,37 @@
-# Analizador de Metadata - Legajo: 51894 Agustin Araya De Cara #  
+![image](https://github.com/user-attachments/assets/e2027255-8f03-4eb7-8357-5985a07b79ad)# Analizador de Metadata - Legajo: 51894 Agustin Araya De Cara #  
 El proyecto dado de la contruccion del analizador con ANTLR y JavaScript, donde dada una gramatica EBNF, se pedia que realizara el analisis lexico y sintactico, generar el arbol de analisis sintactico, tabla de lexemas-tokens y la interpretacion del codigo fuente al lenguaje JavaScript mediante Node.js
+
 # Estructura
-**Metadata.g4** Contiene la gramatica convertida a ANTLR
-**generated** Se guardan los archivos generados automaticamente por ANTLR
-**index.js** Contiene las instrucciones esenciales para la correcta ejecucion del programa
-**CustomMetadataVisitor** Permite que se realice el correcto recorrido del arbol 
-**input.txt** Archivo que contiene el texto de entrada a analizar
-#Programas Requeridos
+**Metadata.g4**: Contiene la gramatica convertida a ANTLR
+
+**generated**: Se guardan los archivos generados automaticamente por ANTLR
+
+**index.js**: Contiene las instrucciones esenciales para la correcta ejecucion del programa
+
+**CustomMetadataVisitor**: Permite que se realice el correcto recorrido del arbol 
+
+
+**input.txt**: Archivo que contiene el texto de entrada a analizar
+
+# Programas Requeridos
+
 **Node.js**
+
 **ANTLR 4**
+
 # Guia para ejecutar el proyecto
+
 ## 1. Clonar el repositorio ##
+
 Para ello deberemos abrir VisualStudioCode y poner en el terminal la instruccion "**git clone https://github.com/AgusAraya/51894**"
+
+En CMD o PowerShell colocar las siguientes instrucciones
+
+**git clone https://github.com/AgusAraya/51894**
+
+**cd 51894**
+
+**code .**
 
 ## 2. Escribir un input ##
 
@@ -19,7 +39,7 @@ Para escribir los inputs hay que tener en cuenta que se debe respetar una serie 
 
 Es obligatorio que cada línea termine con punto y coma ";".
 
-Los campos que aceptan texto pueden tener letras, números, espacios, guiones, puntos y algunos caracteres especiales como la ñ o letras con tilde.
+Los campos que aceptan texto pueden tener letras, números, espacios, guiones, puntos. No acepta acentos ni la ñ
 
 Los numeros deben de ser positivos enteros y no deben de usar puntos o decimales
 
