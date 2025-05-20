@@ -1,4 +1,4 @@
-# Analizador de Metadata - Legajo: 51894 Agustin Araya De Cara #  
+![image](https://github.com/user-attachments/assets/e2027255-8f03-4eb7-8357-5985a07b79ad)# Analizador de Metadata - Legajo: 51894 Agustin Araya De Cara #  
 El proyecto dado de la contruccion del analizador con ANTLR y JavaScript, donde dada una gramatica EBNF, se pedia que realizara el analisis lexico y sintactico, generar el arbol de analisis sintactico, tabla de lexemas-tokens y la interpretacion del codigo fuente al lenguaje JavaScript mediante Node.js
 
 # Estructura
@@ -24,6 +24,14 @@ El proyecto dado de la contruccion del analizador con ANTLR y JavaScript, donde 
 ## 1. Clonar el repositorio ##
 
 Para ello deberemos abrir VisualStudioCode y poner en el terminal la instruccion "**git clone https://github.com/AgusAraya/51894**"
+
+En CMD o PowerShell colocar las siguientes instrucciones
+
+**git clone https://github.com/AgusAraya/51894**
+
+**cd 51894**
+
+**code .**
 
 ## 2. Escribir un input ##
 
