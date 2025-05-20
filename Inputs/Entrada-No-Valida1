@@ -1,0 +1,8 @@
+nomre:registro.log;
+tipo:log;
+tamano:3000;
+creado:2023-10-aa 12:00;
+modificado:2023-10-05 13:00;
+autor:Equipo;
+descripcion:Registro del sistema con errores;
+etiquetas:[registro,sistema,errores];

@@ -5,8 +5,7 @@ creado:2025-05-01 10:00;
 modificado:2025-05-01 10:30;
 autor:IA Modelo;
 descripcion:Documento de prueba para la gramatica de metadatos.;
-etiquetas:[documento,prueba,gramatica];
-
+etiquetas:[documento,prueba,gramatica]; 
 
 
 

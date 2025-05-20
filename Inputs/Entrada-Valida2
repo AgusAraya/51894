@@ -1,0 +1,8 @@
+nombre:reporte.csv;
+tipo:csv;
+tamano:51200;
+creado:2023-11-01;
+modificado:2023-11-02;
+autor:Usuario;
+descripcion:Datos recolectados en campo para analisis posterior;
+etiquetas:[datos,campo,analisis];
